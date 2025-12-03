@@ -1,3 +1,5 @@
+# WheelShare
+
 WheelShare is a full-stack MERN application designed as a modern web platform for renting cars directly from the airport. The project includes user authentication, car browsing, booking management, and a responsive interface optimized for a seamless rental experience. The backend is built with Node.js and Express, the database uses MongoDB for scalable data storage, and the frontend is developed in React for dynamic and fast UI interactions.
 
 Key Features:
