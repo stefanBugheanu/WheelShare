@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poetsen+One&family=Rubik:ital,wght@0,300..900;1,300..900&family=Share+Tech&display=swap");
+@import "tailwindcss";
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+@theme {
+  --font-Rubik: "Rubik", sans-serif;
+  --tw-prose-body: #000;
+  --tw-prose-headings: #000;
+  --tw-prose-lead: #000;
+  --tw-prose-links: #000;
+  --tw-prose-bold: #000;
+  --tw-prose-counters: #000;
+  --tw-prose-bullets: #000;
+  --tw-prose-hr: #000;
+  --tw-prose-quotes: #000;
+  --tw-prose-quote-borders: #000;
+  --tw-prose-captions: #000;
+  --tw-prose-code: #000;
+  --tw-prose-pre-code: #000;
+  --tw-prose-pre-bg: #000;
+  --tw-prose-th-borders: #000;
+  --tw-prose-td-borders: #000;
+}
